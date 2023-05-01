@@ -1,0 +1,8 @@
+postgres:
+  postgres:
+    host: localhost
+    port: 5435
+    user: visitron
+    passw: postgres
+    dbname: airbnb
+    schema: dev

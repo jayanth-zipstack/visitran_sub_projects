@@ -1,0 +1,1 @@
+2023-04-24T13:15:18.875335+0530 INFO list of installed adapters: ['postgres', 'trino', 'duckdb']

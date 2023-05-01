@@ -1,0 +1,2 @@
+2023-04-18T23:51:45.676272+0530 INFO list of installed adapters: ['postgres', 'trino', 'duckdb']
+2023-04-19T00:11:50.499472+0530 ERROR project yaml file not found
